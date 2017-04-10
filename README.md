@@ -1,5 +1,5 @@
 # personal-projects-simpleNLU
-very basic example NLU
+very basic proof of concept example NLU
 
 This is a work in progress NLU. An example driver of this project has yet to be written.
 
